@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Auction.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/\uACBD\uB9E4_\uBC29_\uC0DD\uC131.unity"
+    guid: 46df9da023cc3a04ea2d6ed23169caa5
+  - enabled: 1
+    path: "Assets/Scenes/\uACBD\uB9E4_\uBC29_\uCC38\uC5EC.unity"
+    guid: 69ce88339ec9f7246ae83ccce1dba880
   m_configObjects: {}
